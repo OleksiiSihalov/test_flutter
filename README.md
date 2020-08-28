@@ -1,6 +1,10 @@
-# test_flutter
+# flutter pub upgrade
 
-A test Flutter project.
+Update dependencies.
+
+# flutter run
+
+Runs the app to debug.
 
 ## Description
 
