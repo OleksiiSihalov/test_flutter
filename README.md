@@ -1,8 +1,8 @@
-# flutter pub upgrade
+### flutter pub upgrade
 
 Update dependencies.
 
-# flutter run
+### flutter run
 
 Runs the app to debug.
 
